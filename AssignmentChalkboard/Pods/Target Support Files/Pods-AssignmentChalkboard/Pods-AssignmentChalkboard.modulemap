@@ -1,0 +1,6 @@
+framework module Pods_AssignmentChalkboard {
+  umbrella header "Pods-AssignmentChalkboard-umbrella.h"
+
+  export *
+  module * { export * }
+}

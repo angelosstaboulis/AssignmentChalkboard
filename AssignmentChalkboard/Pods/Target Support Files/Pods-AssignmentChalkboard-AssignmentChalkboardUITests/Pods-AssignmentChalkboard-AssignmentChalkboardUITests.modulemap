@@ -1,0 +1,6 @@
+framework module Pods_AssignmentChalkboard_AssignmentChalkboardUITests {
+  umbrella header "Pods-AssignmentChalkboard-AssignmentChalkboardUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

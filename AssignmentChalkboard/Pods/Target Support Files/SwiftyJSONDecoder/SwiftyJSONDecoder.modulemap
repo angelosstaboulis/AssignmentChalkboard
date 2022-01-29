@@ -1,0 +1,6 @@
+framework module SwiftyJSONDecoder {
+  umbrella header "SwiftyJSONDecoder-umbrella.h"
+
+  export *
+  module * { export * }
+}

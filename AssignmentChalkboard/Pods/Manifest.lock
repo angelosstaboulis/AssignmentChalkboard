@@ -1,0 +1,24 @@
+PODS:
+  - JGProgressHUD (2.2)
+  - SwiftyJSON (5.0.1)
+  - SwiftyJSONDecoder (1.1.0):
+    - SwiftyJSON (~> 5.0.0)
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - SwiftyJSONDecoder
+
+SPEC REPOS:
+  trunk:
+    - JGProgressHUD
+    - SwiftyJSON
+    - SwiftyJSONDecoder
+
+SPEC CHECKSUMS:
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  SwiftyJSONDecoder: 67485499e32949a3c8dd9ee412441cce3a9405bf
+
+PODFILE CHECKSUM: eaafe91f84799adf2cabcb7db7154973b3b5a93e
+
+COCOAPODS: 1.11.2
